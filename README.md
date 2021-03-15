@@ -1,6 +1,5 @@
-# Jacqueline Lee's Portfolio
-## Naïve Bayes Classifier for NBA Players
-## Table of contents
+# Naïve Bayes Classifier for NBA Players
+# Table of contents
 
 - [Background](#background)
 - [The Statistics](#the-statistics)
