@@ -1,8 +1,10 @@
 theme: jekyll-theme-minimal
-title: Jacqueline Lee's Data Science Portfolio
+title: Jacqueline Lee's Data Science
+avatar: "https://github.com/jacquelinekclee/jacquelinekclee.github.io/blob/main/tcg_headshot.jpg"
 navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+ 
