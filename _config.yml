@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
 title: Jacqueline Lee's Data Science Portfolio
 logo: tcg_headshot.jpg
-description: hello!
+description: hello! here is a description
 navbar-links:
-  About Me: "hello"
+  About Me: "hello my name is jacqueline"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Bullet point 
+    - bullet point
   Author's home: "https://deanattali.com"
  
