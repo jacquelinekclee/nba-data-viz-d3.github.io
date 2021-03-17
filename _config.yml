@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jacqueline Lee's Data Science Portfolio
 logo: tcg_headshot.jpg
+description: hello
 navbar-links:
   About Me: "aboutme"
   Resources:
